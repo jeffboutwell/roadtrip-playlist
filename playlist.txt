@@ -1,6 +1,4 @@
 SONG - ARTIST
 =============
-One - U2
-Desire - U2
-Baba O'Reilly - The Who
-Black Dog - Led Zeppelin
+Blue Train - John Coltrane
+Birth of the Cool - Miles Davis
