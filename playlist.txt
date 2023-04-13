@@ -1,8 +1,8 @@
 SONG - ARTIST
 =============
-One - U2
-Desire - U2
 Baba O'Reilly - The Who
 Black Dog - Led Zeppelin
 Purple Haze - Jimi Hendrix
 The Wind Cries Mary - Jimi Hendrix
+Money - Pink Floyd
+Wish You Were Here - Pink Floyd
